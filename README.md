@@ -17,5 +17,5 @@ This project was moved off a game platform, remade in a local server, before fin
 - Download ![XAMPP server](https://www.apachefriends.org/)
 - Copy files to htdocs
 - Start apache server
-- open ![XAMPP server](http://localhost/)
+- open `http://localhost/`
 ## Preview
