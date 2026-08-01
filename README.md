@@ -19,3 +19,6 @@ This project was moved off a game platform, remade in a local server, before fin
 - Start apache server
 - open `http://localhost/`
 ## Preview
+## Refrences
+- [kamshory/php-websocket](https://github.com/kamshory/php-websocket)
+- [gjmolter/web-3dmodel-threejs](https://github.com/gjmolter/web-3dmodel-threejs)
